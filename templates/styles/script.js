@@ -1,6 +1,7 @@
 function displayData(){
     let data = new Date()
-    console.log(data)
+    let date = data.toString().split(" ")
+    console.log(date)
 }
 
 window.onload = function(){
