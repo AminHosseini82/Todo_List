@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0892e21c-c9c1-4045-8f8b-168777b368e8" name="Changes" comment="xml file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/styles/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/styles/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-do-list-local-storage-main.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "django.template.preview.state": "SHOW_EDITOR",
     "git-widget-placeholder": "Create__Template",
-    "last_opened_file_path": "F:/Amin_Projects/GitHub/Todo_List/templates",
+    "last_opened_file_path": "F:/Amin_Projects/GitHub/Todo_List",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Amin_Projects\GitHub\Todo_List" />
       <recent name="F:\Amin_Projects\GitHub\Todo_List\templates" />
     </key>
   </component>
@@ -110,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751805348307</updated>
-      <workItem from="1751805349536" duration="3368000" />
+      <workItem from="1751805349536" duration="4262000" />
     </task>
     <task id="LOCAL-00001" summary="noting">
       <option name="closed" value="true" />
